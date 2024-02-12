@@ -1,0 +1,40 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+  }
+  body{
+    background-color:black;
+    color:white;
+    text-align:center;
+  }
+  header{
+    margin-top:20px;
+    font-size:25px;
+    font-weight:bolder;
+  }
+  section{
+    border:1px solid white;
+    margin:10px auto;
+    width:60%;
+    max-width:400px;
+  }
+  input{
+    width:70%;
+    display:block;
+    margin:0 auto;
+  }
+  button{
+    background-color:yellow;
+    border:1px solid yellow;
+    margin:5px 0;
+    border-radius:10px;
+    height:20px;
+    width:70%;
+  }
+  #output{
+    border:1px solid white;
+    width:60%;
+    max-width:400px;
+    margin:10px auto;
+  }
